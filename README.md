@@ -86,6 +86,5 @@ reclassified in one of the years, and that threw the data off.
 
 * Fancy formatting and Excel junk;
 * Summary data mixed with record-level data
-* Insane formula hell (See going from [Exhibit
-* A](https://docs.google.com/spreadsheets/d/1Es89IcP9hXe_3QwgZf7UqAR1Vac0-1VD2AtluhJtfI4/edit#gid=1784818844)
+* Insane formula hell (See going from [Exhibit A](https://docs.google.com/spreadsheets/d/1Es89IcP9hXe_3QwgZf7UqAR1Vac0-1VD2AtluhJtfI4/edit#gid=1784818844)
 * to [Exhibit B](http://projects.ctmirror.org/content/trend/2016/10/excess_cost/).
