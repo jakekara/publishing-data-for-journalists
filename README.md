@@ -68,6 +68,8 @@ less information about those loans.
   its uniform crime data from one year to the next, because agency
   participation in the data collection is so inconsistent.
 
+* [Story link](http://trendct.org/2016/05/13/incentive-program-behind-on-audits-but-ahead-on-jobs/)
+
 #### 2. The methodology seems right, but...
 
 The CDC reported that Connecticut had a crazy high decline in teen birth
@@ -82,8 +84,10 @@ reclassified in one of the years, and that threw the data off.
 **The good news**: Because their methodology was well documented, this
   quirk in the data was discoverable.
 
+* [Story link](http://trendct.org/2016/12/02/teenage-pregnancy-rates-continue-to-decline-in-connecticut/)
+
 # Minor annoyances
 
 * Fancy formatting and Excel junk;
 * Summary data mixed with record-level data
-* Insane formula hell (See going from [Exhibit A](https://docs.google.com/spreadsheets/d/1Es89IcP9hXe_3QwgZf7UqAR1Vac0-1VD2AtluhJtfI4/edit#gid=1784818844) to [Exhibit B](http://projects.ctmirror.org/content/trend/2016/10/excess_cost/).
+* Insane formula hell (See going from [Exhibit A](https://docs.google.com/spreadsheets/d/1Es89IcP9hXe_3QwgZf7UqAR1Vac0-1VD2AtluhJtfI4/edit#gid=1784818844) to [Exhibit B](http://projects.ctmirror.org/content/trend/2016/10/excess_cost/)).
