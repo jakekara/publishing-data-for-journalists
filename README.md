@@ -1,12 +1,11 @@
 # Publishing data with journalists in mind
 
-** Notes for 2017-01-27 at Hartford Foundation for Public Giving Data
-   Meetup **
+**Notes for 2017-01-27 at Hartford Foundation for Public Giving Data Meetup**
 
 #### You've sent me a press release
 
 
-* _A+_ - In addition to the release, you send all of your raw data, so I can 
+* *A+* - In addition to the release, you send all of your raw data, so I can 
 check your work. Because you did that, I start asking a lot of other
 questions and I end up writing several stories on this topic. Plus, you
 send it embargoed for a couple weeks, so I have more time to write a better
