@@ -6,10 +6,12 @@
 3. Deal with stuff I don't understand, at first
 
 # Part 1 - You seek publicity
-1. Reputable source? Show me the data!
-   1. I check your math
-   2. I understand your process
-   3. I might find new angles
+1. Reputable source? Show me the data! So I can...
+   1. check your math;
+   2. understand your process;
+   3. find  new angles and write more stories or make fancy graphics;
+   4. use your data later on for an unrelated story later on;
+   5. know that next time you send me something, it'll be worth looking at
 2. Relevant information?
 3. Do I have time to deal with this? Embargo!
 
