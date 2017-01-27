@@ -3,6 +3,7 @@
 # Part 0 - What I do
 1. Explain your data in plain English
 2. Make nifty presentations ([bail](https://jakekara.github.io/pretrial-slider/), [ECS](http://projects.ctmirror.org/content/trend/2016/10/excess_cost/), [Budget](https://jakekara.github.io/budget_petri/))
+3. Deal with stuff I don't understand, at first
 
 # Part 1 - You seek publicity
 1. Reputable source? Show me the data!
@@ -24,5 +25,7 @@
 # Part 4 - Data structure whining
 1. Summary stats mixed with raw data
 2. Excel formatting
-3o. Formula hell
+3. Formula hell
 
+# Part 5 - Resource(s)
+1. [The Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide/blob/master/README.md#rows-or-values-are-duplicated)
