@@ -47,3 +47,19 @@ less information about those loans.
   its uniform crime data from one year to the next, because agency
   participation in the data collection is so inconsistent.
 
+#### 2. The methodology seems right, but...
+
+The CDC reported that Connecticut had a crazy high decline in teen birth
+rates in rural areas: 73 percent over five years. But...
+
+They based this on county-level data. Connecticut is tiny and has eight
+counties. When I dug to find which counties they considered rural, it
+turned out that Litchfield and Windham counties were classified as rural at
+the start of their data, but Windham, which had a higher birth rate, was
+reclassified in one of the years, and that threw the data off.
+
+**The good news**: Because their methodology was well documented, this
+  quirk in the data was discoverable.
+
+#### 3. Data isn't raw
+
