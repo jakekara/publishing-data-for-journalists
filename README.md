@@ -14,11 +14,32 @@ it before it gets published.
 * **C** -  You send a spreadsheet, but it only has the results of your
 computations, not the raw data. I can't do anything with that.
 
+But that's the short game.
+
 #### ... Years later...
 
 The data you collected are public, so chances are people will keep finding
 them when trying to answer other questions you never imagined. I'm usually
-that person, not the person you're sending press releases to.
+that person, and my process will stress test your data.
+
+You  want any data you put out there to be "good", meaning:
+
+1. The  methodology (collection plus any analysis or transformation) is
+well-documented; 
+2. Any caveats about the data are as clear as possible.
+
+You want it to be good, and public, because:
+
+1. You spent the time to collect it, and your time is valuable;
+2. Its part of your and your organization's reputation, just like anything
+else you put out in the public domain.
+
+If it's not good:
+
+1. It won't be reliable, but people might not know;
+2. People might use it in a way you didn't to write a news story or make a
+policy decision;
+3. People might realize it was unreliable and be :( at you.
 
 Some bad things that I've come across:
 
@@ -61,5 +82,6 @@ reclassified in one of the years, and that threw the data off.
 **The good news**: Because their methodology was well documented, this
   quirk in the data was discoverable.
 
-#### 3. Data isn't raw
+#### 3. This isn't normal
 
+A spreadsheet that contains a row for each record, but then also contains
