@@ -1,5 +1,9 @@
 # Publishing data with journalists in mind
 
+jake kara
+
+jkara@trendct.org
+
 **Please interrupt.**
 
 # Part 0 - What I do
