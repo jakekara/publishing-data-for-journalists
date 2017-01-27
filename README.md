@@ -14,6 +14,7 @@
 
 # Part 2 - I stumble on your data
 1. Reduce weirdness
+   1. Weirdness: Non-obvious limitations of the data (I.E. you only uploaded half your spreadsheet)
 2. When weirdness can't be avoided, make it obvious
 
 # Part 3 - Examples
