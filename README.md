@@ -1,11 +1,15 @@
 # Publishing data with journalists in mind
 
-# Part 1 - Seeking out publicity
+# Part 0 - What I do
+1. Explain your data in plain English
+2. Make nifty presentations ([bail](https://jakekara.github.io/pretrial-slider/), [ECS](http://projects.ctmirror.org/content/trend/2016/10/excess_cost/), [Budget](https://jakekara.github.io/budget_petri/))
+
+# Part 1 - You seek publicity
 1. Reputable source?
 2. Relevant information?
 3. Do I have time to deal with this?
 
-# Part 2 - Stumbling upon your data
+# Part 2 - I stumble on your data
 1. Reduce weirdness
 2. When weirdness can't be avoided, make it obvious
 
@@ -16,5 +20,5 @@
 # Part 4 - Data structure whining
 1. Summary stats mixed with raw data
 2. Excel formatting
-3. Formula hell
+3o. Formula hell
 
