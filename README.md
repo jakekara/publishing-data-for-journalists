@@ -25,8 +25,8 @@
 3. When weirdness can't be avoided, make it obvious
 
 # Part 3 - Examples
-1. DECD data ([Data](https://data.ct.gov/Business/Small-Business-Express-Tabulated-Data/565g-b4i4))
-2. CDC teen birth rates 
+1. DECD data ([Data](https://data.ct.gov/Business/Small-Business-Express-Tabulated-Data/565g-b4i4), [Story](http://trendct.org/2016/05/13/incentive-program-behind-on-audits-but-ahead-on-jobs/))
+2. CDC teen birth rates ([Story](http://trendct.org/2016/12/02/teenage-pregnancy-rates-continue-to-decline-in-connecticut/))
 
 # Part 4 - Data structure whining
 1. Summary stats mixed with raw data
