@@ -1,5 +1,7 @@
 # Publishing data with journalists in mind
 
+**Please interrupt.**
+
 # Part 0 - What I do
 1. Explain your data in plain English
 2. Make nifty presentations ([bail](https://jakekara.github.io/pretrial-slider/), [ECS](http://projects.ctmirror.org/content/trend/2016/10/excess_cost/), [Budget](https://jakekara.github.io/budget_petri/))
