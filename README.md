@@ -3,24 +3,17 @@
 ** Notes for 2017-01-27 at Hartford Foundation for Public Giving Data
    Meetup **
 
-#### "It's 11 p.m., do you know where your data are?"
+#### You've sent me a press release
 
-You might only think about us journalist when you're trying
-to draw attention to your work, such as releasing a press release to
-accompany a study you've completed.
+|---|---|
+| A+ | In addition to the release, you send all of your raw data, so I can 
+check your work. Because you did that, I start asking a lot of other
+questions and I end up writing several stories on this topic. Plus, you
+send it embargoed for a couple weeks, so I have more time to write a better
+story. |
+|---|---|
+|C | You send a spreadsheet, but it only has the results of your
+computations, not the raw data. I can't do anything with that.|
+|---|--|
 
-But people will keep finding your data when they're trying to answer
-questions you may have never considered. 
-
-#### "If your mother says she loves you, check it out."
-— Chicago City News Bureau
-
-#### "100% organic, free-range, raw data, please"
-
-
-
-
-
-
-
-
+#### You publish your 
