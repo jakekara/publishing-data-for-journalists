@@ -12,8 +12,8 @@ accompany a study you've completed.
 But people will keep finding your data when they're trying to answer
 questions you may have never considered. 
 
-#### "If your mother says she loves you, check it out." — Chicago City News
-     Bureau
+#### "If your mother says she loves you, check it out."
+— Chicago City News Bureau
 
 #### "100% organic, free-range, raw data, please"
 
