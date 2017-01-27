@@ -4,7 +4,7 @@
 
 # Part 0 - What I do
 1. Explain your data in plain English
-2. Make nifty presentations ([bail](https://jakekara.github.io/pretrial-slider/), [ECS](http://projects.ctmirror.org/content/trend/2016/10/excess_cost/), [Budget](https://jakekara.github.io/budget_petri/))
+2. Make nifty presentations ([Bail](https://jakekara.github.io/pretrial-slider/), [ECS](http://projects.ctmirror.org/content/trend/2016/10/excess_cost/), [Budget](https://jakekara.github.io/budget_petri/))
 3. Deal with stuff I don't understand, at first
 
 # Part 1 - You seek publicity
