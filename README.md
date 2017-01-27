@@ -41,7 +41,7 @@ If it's not good:
 policy decision;
 3. People might realize it was unreliable and be :( at you.
 
-## How I use your data
+# How I use your data
 
 #### 1. Data are incomplete in a non-obvious way
 
@@ -82,6 +82,10 @@ reclassified in one of the years, and that threw the data off.
 **The good news**: Because their methodology was well documented, this
   quirk in the data was discoverable.
 
-#### 3. This isn't normal
+# Minor annoyances
 
-A spreadsheet that contains a row for each record, but then also contains
+* Fancy formatting and Excel junk;
+* Summary data mixed with record-level data
+* Insane formula hell (See going from [Exhibit
+* A](https://docs.google.com/spreadsheets/d/1Es89IcP9hXe_3QwgZf7UqAR1Vac0-1VD2AtluhJtfI4/edit#gid=1784818844)
+* to [Exhibit B](http://projects.ctmirror.org/content/trend/2016/10/excess_cost/).
