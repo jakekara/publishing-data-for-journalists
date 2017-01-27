@@ -4,7 +4,6 @@
 
 #### You've sent me a press release
 
-
 * *A+* - In addition to the release, you send all of your raw data, so I can 
 check your work. Because you did that, I start asking a lot of other
 questions and I end up writing several stories on this topic. Plus, you
@@ -13,4 +12,8 @@ story.
 * **C** -  You send a spreadsheet, but it only has the results of your
 computations, not the raw data. I can't do anything with that.|
 
-#### You publish your 
+#### ... Years later...
+
+The data you collected is public, so chances are people will keep finding
+it when they're trying to answer other questions you never imagined. I'm
+usually that person, not the person you're sending press releases to.
