@@ -19,9 +19,10 @@
 4. Do I have time to deal with this? Embargo!
 
 # Part 2 - I stumble on your data
-1. Reduce weirdness
+1. Goal: Data that stands on its own
+2. Reduce weirdness
    1. Weirdness: Non-obvious limitations of the data (I.E. you only uploaded half your spreadsheet)
-2. When weirdness can't be avoided, make it obvious
+3. When weirdness can't be avoided, make it obvious
 
 # Part 3 - Examples
 1. DECD data ([Data](https://data.ct.gov/Business/Small-Business-Express-Tabulated-Data/565g-b4i4))
