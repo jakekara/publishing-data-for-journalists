@@ -31,7 +31,7 @@
 # Part 4 - Data structure whining
 1. Summary stats mixed with raw data
 2. Excel formatting
-3. Formula hell
+3. Formula hell ([Sheet](https://docs.google.com/spreadsheets/d/1Es89IcP9hXe_3QwgZf7UqAR1Vac0-1VD2AtluhJtfI4/edit#gid=1784818844), [graphic](http://projects.ctmirror.org/content/trend/2016/10/excess_cost/)
 
 # Part 5 - Resource(s)
 1. [The Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide/blob/master/README.md#rows-or-values-are-duplicated)
