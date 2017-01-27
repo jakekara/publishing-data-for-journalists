@@ -41,7 +41,7 @@ If it's not good:
 policy decision;
 3. People might realize it was unreliable and be :( at you.
 
-Some bad things that I've come across:
+## How I use your data
 
 #### 1. Data are incomplete in a non-obvious way
 
