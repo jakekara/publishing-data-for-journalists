@@ -5,9 +5,12 @@
 2. Make nifty presentations ([bail](https://jakekara.github.io/pretrial-slider/), [ECS](http://projects.ctmirror.org/content/trend/2016/10/excess_cost/), [Budget](https://jakekara.github.io/budget_petri/))
 
 # Part 1 - You seek publicity
-1. Reputable source?
+1. Reputable source? Show me the data!
+   1. I check your math
+   2. I understand your process
+   3. I might find new angles
 2. Relevant information?
-3. Do I have time to deal with this?
+3. Do I have time to deal with this? Embargo!
 
 # Part 2 - I stumble on your data
 1. Reduce weirdness
